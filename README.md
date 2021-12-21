@@ -1,7 +1,7 @@
-# FAIRLEARN
+# CONFAIR
 
 
-This repo contains code for the FAIRLEARN algorithm. 
+This repo contains code for the CONFAIR (formerly FAIRLEARN) algorithm. 
 
 ## Installation 
 
